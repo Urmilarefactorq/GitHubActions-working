@@ -1,9 +1,9 @@
-name: Node CI Pipeline
+name: fixed docker image lowercase
 
 on:
   push:
     branches:
-      - master
+      - main 
 
 jobs:
   build:
