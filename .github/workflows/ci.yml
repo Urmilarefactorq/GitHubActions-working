@@ -27,4 +27,4 @@ jobs:
         run: npm test
 
       - name: Build Docker Image
-        run: docker build -t GithubActions-working .
+        run: docker build -t Githubactions-working .
